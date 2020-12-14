@@ -90,3 +90,8 @@ D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\obj\Debug\GameStore.
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.pdb
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\bin\GameStore.Domain.pdb
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\bin\EntityFramework.dll
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll.config
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\bin\EntityFramework.xml
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.xml

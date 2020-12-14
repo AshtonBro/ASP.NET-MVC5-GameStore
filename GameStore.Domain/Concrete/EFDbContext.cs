@@ -8,7 +8,7 @@ namespace GameStore.Domain.Concrete
     /// </summary>
     public class EFDbContext : DbContext
     {
-        public DbSet<Game> Games { get; set; }
+        public virtual DbSet<Game> Games { get; set; }
 
     }
 }

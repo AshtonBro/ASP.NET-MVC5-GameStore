@@ -21,3 +21,8 @@ D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csproj.CopyComplete
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

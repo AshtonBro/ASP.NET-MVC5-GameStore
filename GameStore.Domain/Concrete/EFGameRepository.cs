@@ -12,10 +12,7 @@ namespace GameStore.Domain.Concrete
         EFDbContext context = new EFDbContext();
         public IEnumerable<Game> Games
         {
-            get 
-            {
-                return context.Games;
-            }
+            get  { return context.Games; }
         }
     }
 }
