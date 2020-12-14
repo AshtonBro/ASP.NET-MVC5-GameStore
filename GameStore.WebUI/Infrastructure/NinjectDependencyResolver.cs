@@ -37,6 +37,8 @@ namespace GameStore.WebUI.Infrastructure
                  new Game { Name = "Battlefield 4", Price = 899.4M },
                  new Game { Name = "Rocket League", Price = 456.8M }
             });
+
+            kernel.Bind<IGameRepository>().ToConstant(mock.Object);
         }
 
     }
