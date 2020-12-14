@@ -16,5 +16,10 @@ namespace GameStore.WebUI.Controllers
         {
             repository = _repository;
         }
+
+        public ViewResult List()
+        {
+            return View(repository.Games);
+        }
     }
 }
