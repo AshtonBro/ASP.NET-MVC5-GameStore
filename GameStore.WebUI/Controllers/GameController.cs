@@ -12,14 +12,18 @@ namespace GameStore.WebUI.Controllers
     {
         // GET: Game
         private IGameRepository repository;
+        public int pageSize = 4;
         public GameController(IGameRepository _repository)
         {
             repository = _repository;
         }
 
-        public ViewResult List()
+        public ViewResult List(int page = 1)
         {
-            return View(repository.Games);
+            return View(repository.Games
+                .OrderBy(game => game.GameId)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize));
         }
     }
 }
