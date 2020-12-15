@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Web.Mvc;
 using Ninject;
+using Moq;
 using GameStore.Domain.Abstract;
+using GameStore.Domain.Entities;
 using GameStore.Domain.Concrete;
 
 namespace GameStore.WebUI.Infrastructure

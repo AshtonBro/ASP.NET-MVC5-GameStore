@@ -16,13 +16,13 @@ D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\System.We
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
-D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojAssemblyReference.cache
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csproj.CoreCompileInputs.cache
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csproj.CopyComplete
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
-D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
 D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web-developer\3. С#\VS_source\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojAssemblyReference.cache
